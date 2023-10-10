@@ -60,8 +60,6 @@
 
 <br />
 
-** If you think I am doing good, please give me a chance to show this app in class. Thanks. **
-
 <br />
 
 ## Code Reference
